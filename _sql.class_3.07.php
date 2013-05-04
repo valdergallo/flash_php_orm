@@ -1,24 +1,24 @@
 <?
 /*****************************************************************************
-*	VERSÃO 3.7
-*	Data: 15/06/2008
+*	VERSï¿½O 3.7
+*	Data: 15/06/2006
 *	Desenvolvido por Valder Gallo
 * 	e-mail: valdergallo@yahoo.com.br
 * 
-* 	INCLUSÃO DA FUNÇÃO ENCODECONFIG
+* 	INCLUSï¿½O DA FUNï¿½ï¿½O ENCODECONFIG
 * 
-* 	INCLUSÃO DA FUNÇÃO MOEDA
+* 	INCLUSï¿½O DA FUNï¿½ï¿½O MOEDA
 * 
-* 	INCLUSÃO DA FUNÇÃO DATA
+* 	INCLUSï¿½O DA FUNï¿½ï¿½O DATA
 *  
-* 	CORREÇÕES no where dos fetch, assoc, insert, update - faltava um espaço entre os caracteres
+* 	CORREï¿½ï¿½ES no where dos fetch, assoc, insert, update - faltava um espaï¿½o entre os caracteres
 * 
-* 	CORREÇÃO NA TRANSFORMAÇÕES DE DATA PARA BR
-* 	criação de TABELAS
+* 	CORREï¿½ï¿½O NA TRANSFORMAï¿½ï¿½ES DE DATA PARA BR
+* 	criaï¿½ï¿½o de TABELAS
 * 
-* 	INCLUSÃO DA FUNÇÃO CREATETABLE PARA CRIAR TABELAS
+* 	INCLUSï¿½O DA FUNï¿½ï¿½O CREATETABLE PARA CRIAR TABELAS
 * 
-*  	CORREÇÃO no delete problemas se tivesse só um valor na array de valores a 
+*  	CORREï¿½ï¿½O no delete problemas se tivesse sï¿½ um valor na array de valores a 
 * 	serem deletados
 *  
 * 
@@ -696,7 +696,7 @@ class _sql {
 	}
 	
 	/**
-	 * Função de data
+	 * Funï¿½ï¿½o de data
 	 *
 	 * @param date $data
 	 * @param string_date $formato
@@ -715,7 +715,7 @@ class _sql {
 	}
 
 	/**
-	 * Função de moeda
+	 * Funï¿½ï¿½o de moeda
 	 *
 	 * @param valor $valor
 	 * @return valor
